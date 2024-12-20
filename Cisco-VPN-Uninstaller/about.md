@@ -4,3 +4,8 @@ Cisco's AnyConnect and Secure Client VPN apps can be a bit finnicky to troublesh
 Whatever ails your Cisco VPN client installation, this'll clean it out and pave the way for a fresh, clean install.
 
 Thanks to [this MIT Knowledge Base article](http://kb.mit.edu/confluence/display/mitcontrib/Cisco+Anyconnect+Manual+uninstall+Mac+OS) for info on some of the older components' locations and their general uninstall recommendations!
+
+## Important info:
+This script is intended to be run with sudo privileges or as MDM agent
+
+This script will delete the Cisco folder from /Applications. If you install any other applications there, I recommend commenting out lines 22-28
