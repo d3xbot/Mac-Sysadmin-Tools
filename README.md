@@ -6,5 +6,5 @@ I'm not a very experienced dev, but I'm learning as I go! I'm happy for *constru
 ### TODO
  - [x] Post Adobe / Office VisualBasic Runtime Error script
  - [ ] Post Cisco VPN Client full uninstall script
- - [ ] Post "Kill Legacy Screensaver" "script"
+ - [x] Post "Kill Legacy Screensaver" "script"
  - [ ] Come up with more scripts
