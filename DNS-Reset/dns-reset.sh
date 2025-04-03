@@ -19,4 +19,5 @@ case mvers in
 	*)
 		echo "This version of Mac OS X is not supported. Please upgrade your Mac."
 	;;
-done
+esac
+exit 0
