@@ -17,3 +17,4 @@ case mvers in
 		echo "This version of Mac OS is not supported. Please upgrade your Mac."
 	;;
 esac
+exit 0
