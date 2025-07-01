@@ -8,9 +8,9 @@ Most, if not all, scripts here will be BASH or ZSH (or BASH that's shebanged as 
 ### TODO
  - [x] Post Adobe / Office VisualBasic Runtime Error script
  - [x] Post Cisco VPN Client full uninstall script
-   - [ ] Make sure the Cisco VPN Client full uninstall script plays well with the new uninstall scripts and Cisco Secure Client app
+   - [x] Make sure the Cisco VPN Client full uninstall script plays well with the new uninstall scripts and Cisco Secure Client app
  - [x] Post "Kill Legacy Screensaver" "script"
-   - [ ] shame self for using scarequotes on GitHub
+   - [x] shame self for using scarequotes on GitHub
  - [x] Upload Office SecureBookmark script
    - [ ] Make the Office SecureBookmark script safer
  - [ ] Come up with more scripts
